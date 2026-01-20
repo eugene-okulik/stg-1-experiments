@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 here==+here
 upd upd
 ++++++===+++++++
@@ -28,3 +29,16 @@ azazazaz
 opopopopopop
 asdgfsdfgsdfgsdfg
 hihi
+=======
+here
+is 
+some
+text
+that
+needs
+to
+be
+changed
+qa
+autoQA
+>>>>>>> 99c31c6e5f12faba2350c4baed4cb431cadaccc3
