@@ -7,3 +7,5 @@ needs
 to
 be
 changed
+qa
+autoQA
