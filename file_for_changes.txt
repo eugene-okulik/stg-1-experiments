@@ -1,29 +1,29 @@
-here==+here
-upd upd
-++++++===+++++++
-is==is
-+++++++++++++
-some==some
-upd upd
-upd upd
-===++++++
-laksdjflakdjsf
-text==+text
-asdkfjahslkdjfhasf
-+++++++++++++
-aksjdhfkajsdhkjdshf
-that==that
-++++++===+++++++
-needs==needs
-+++++++++++++
-to==+to
-+++++===++++++++
-be==be
-++++++===+++++++
-changed==+changed
-+++++++++++++
-фдылварыфвbrbr
-brbrфывлbrbr
-azazazaz
-opopopopopop
-asdgfsdfgsdfgsdfg
+here==+here-=-=-=-=
+upd upd-=-=-=-=
+++++++===++++++-=-=-=-=+
+is==is-=-=-=-=
++++++++++++++-=-=-=-=
+some==some-=-=-=-=
+upd upd-=-=-=-=
+upd upd-=-=-=-=
+===++++++-=-=-=-=
+laksdjflakdjsf-=-=-=-=
+text==+text-=-=-=-=
+asdkfjahslkdjfhasf-=-=-=-=
++++++++++++++-=-=-=-=-=-=-=-=
+aksjdhfkajsdhkjdshf-=-=-=-=
+that==that-=-=-=-=
+++++++===+++++++-=-=-=-=
+needs==needs-=-=-=-=
++++++++++++++-=-=-=-=
+to==+to-=-=-=-=
++++++===+++++++-=-=-=-=+
+be==be-=-=-=-=
+++++++===+++++-=-=-=-=++
+changed==+changed-=-=-=-=
++++++++++++++-=-=-=-=
+фдылварыфвbrbr-=-=-=-=
+brbrфывлbrbr-=-=-=-=
+azazazaz-=-=-=-=
+opopopopopop-=-=-=-=
+asdgfsdfgsdfgsdfg-=-=-=-=
