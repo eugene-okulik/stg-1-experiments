@@ -1,5 +1,5 @@
 print("Проверка скидки")
-regular_price = '1000'
+regular_price = 1000
 discount_price = 900
 
 price_difference = regular_price - discount_price

@@ -1,7 +1,7 @@
 # Эта программа считает общую стоимость
 
 print("Расчет общей стоимости заказа")
-order = {"item1": "100", "item2": "200", "item3": "150"}
+order = {"item1": 100, "item2": 200, "item3": 150}
 
 total = order["item1"] + order["item2"] + order["item3"]
 
