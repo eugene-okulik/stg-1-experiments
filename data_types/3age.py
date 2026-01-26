@@ -1,8 +1,8 @@
 # Эта программа рассчитывает год рождения
 
 print("Привет! Давай узнаем твой год рождения.")
-current_year = "2026"
-your_age = input("Сколько тебе лет? ")
+current_year = 2026
+your_age = int(input("Сколько тебе лет?"))
 
 birth_year = current_year - your_age
 
