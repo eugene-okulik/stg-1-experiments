@@ -8,7 +8,6 @@ class BankTerminal:
         self.balance += amount
         self.history.append(f'+{amount}: Пополнение')
 
-
     def get_report(self):
         self.balance -= 50
         self.history.append('-50: Предоставление отчета')
@@ -36,6 +35,7 @@ class BankTerminal:
             other_account.add_money(amount)
         else:
             print('Для перевода не достаточно средств на счете')
+
 
 name = input("Ваше имя владельца первого счета: ")
 acc1 = BankTerminal(name, 1000)
