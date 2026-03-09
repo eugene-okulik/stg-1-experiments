@@ -28,13 +28,13 @@ class BankTerminal:
         if self.balance >= amount + commission:
             self.balance = self.balance - amount - commission
             self.history.append(f"-{amount}: Перевод acc2")
-            self.history.append(f"-{commission}: Комиссия за перевод 5 %")
+            self.history.append(f"-{commission}: Комиссия за перевод 5%")
             print(self.balance)
             for i in self.history:
                 print(i)
             other_account.add_money(amount)
         else:
-            print('Для перевода не достаточно средств на счете')
+            print('Для перевода недостаточно средств на счете')
 
 
 name = input("Введите ваше имя: ")
