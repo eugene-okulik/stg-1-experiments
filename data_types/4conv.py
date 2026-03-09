@@ -5,6 +5,8 @@ name = input("Введите ваше имя: ")
 age = 25  # Предполагаемый возраст
 hobbies = ["чтение", "спорт", "музыка"]
 
-message = "Привет, " + name + "! Тебе " + age + " лет. Твои хобби: " + hobbies
+hobbies_to_str = ", ".join(hobbies)
+
+message = "Привет, " + name + "! Тебе " + str(age) + " лет. Твои хобби: " + hobbies_to_str
 
 print(message)
