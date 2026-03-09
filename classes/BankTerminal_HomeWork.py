@@ -37,7 +37,7 @@ class BankTerminal:
             print('Для перевода не достаточно средств на счете')
 
 
-name = input("Ваше имя владельца первого счета: ")
+name = input("Введите ваше имя: ")
 acc1 = BankTerminal(name, 1000)
 acc2 = BankTerminal("Иван", 0)
 
